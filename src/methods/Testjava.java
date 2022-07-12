@@ -1,0 +1,10 @@
+package methods;
+
+public class Testjava {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
